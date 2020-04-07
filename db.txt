@@ -1,0 +1,6 @@
+id  name        model           price           count
+-----------------------------------------------------
+Nokia ExpresM 800 6
+FlyGS X11 1800 7
+Samsung G7 4100 10
+Huawei Ascend 4000 5
